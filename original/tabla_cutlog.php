@@ -1,11 +1,5 @@
 <?php
-/*
- * NOV Grant Prideco
- *
- * @Control de Caducidad
- * @version 1.0
- * @fecha: 7 de aagosto del 2017
- */
+
 
 error_reporting(E_ALL & ~E_NOTICE);
 ini_set("display_errors","on");
