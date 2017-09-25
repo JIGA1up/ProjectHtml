@@ -39,7 +39,7 @@ if (is_numeric($_GET["themeid"]))
 <link rel="icon" href="http://srvverapp07/equipo/favicon.ico" type="image/x-icon">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<h1><a href="menuadm.php?themeid=3&p2=<?php echo $_GET["p2"]; ?>" title="Ir al Inicio"> <img src="<?php echo $logo;?>" alt="Martin Romero" />  <?php echo $slogan; ?> │ <?php echo $empresa; ?> │ <?php echo $nombre; ?> </a></h1> 
+	<h1><a href="menuadm.php?themeid=3&p2=<?php echo $_GET["p2"]; ?>" title="Ir al Inicio"> <img src="<?php echo $logo;?>" alt="Hi" />  <?php echo $slogan; ?> │ <?php echo $empresa; ?> │ <?php echo $nombre; ?> </a></h1> 
 	<h2 align=center><a>INICIE UN NUEVO CUT LOG LLENANDO LOS CAMPOS SOLICITADOS:</a></h2> 
 
 	<link rel="stylesheet" type="text/css" media="screen" href="lib/js/themes/<?php echo $themes[$i]?>/jquery-ui.custom.css"></link>	
