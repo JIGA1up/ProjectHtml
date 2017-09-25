@@ -1,11 +1,5 @@
 <?php
-/*
- * NOV Grant Prideco
- *
- * @Control de Caducidad
- * @version 1.0
- * @fecha: 7 de aagosto del 2017
- */
+
 
 error_reporting(E_ALL & ~E_NOTICE);
 ini_set("display_errors","on");
@@ -31,7 +25,7 @@ require('conexion.php');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
-	<h1><a href="javascript:history.go(-1);" title="Ir al Inicio"> <img src="<?php echo $logo;?>" alt="Martin Romero" />  <?php echo $slogan; ?> │ <?php echo $empresa; ?> │ <?php echo $nombre; ?> </a></h1> 
+	<h1><a href="javascript:history.go(-1);" title="Ir al Inicio"> <img src="<?php echo $logo;?>" alt="hi" />  <?php echo $slogan; ?> │ <?php echo $empresa; ?> │ <?php echo $nombre; ?> </a></h1> 
 	
 	<link href="css/estilos_memo.css" media="screen" rel="stylesheet" type="text/css" />
 	<link href="css/helper.css" media="screen" rel="stylesheet" type="text/css" />
