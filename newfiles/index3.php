@@ -1,11 +1,4 @@
-<?php
-/*
- * NOV Grant Prideco
- *
- * @Control de Caducidad
- * @version 1.0
- * @fecha: 7 de aagosto del 2017
- */
+
 
 
 	
