@@ -1,5 +1,5 @@
 <?php
-require('../conexion_db.php');
+require('../conexion_db.php');               //change this 
 $txtID = $_GET['txtID'];
 $sql = mysql_query("SELECT r.job AS JOB,p.heat_code AS HEAT_CODE,p.probeta AS PROBETA,p.id_line AS ID_LINE
 FROM metlab.prueba_junta p
